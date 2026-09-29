@@ -1,2 +1,5 @@
 # spd-barrage
-Barrage plain-language clone of fitzyracing1/spd
+
+Barrage clone of [fitzyracing1/spd](https://github.com/fitzyracing1/spd).
+
+Read [listing.barrage](listing.barrage).
